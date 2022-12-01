@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @preetham
+- 👋 Hi, I’m Sunny
 - 👀 I’m interested in Cloud platforms
 - 🌱 I’m currently learning ABC
-- 💞️ I’m looking to collaborate on Cloud providers
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me shoot a email
 
 <!---
