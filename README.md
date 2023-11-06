@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sunny
+- 👋 Hi, I’m Sunny bunny
 - 👀 I’m interested in Cloud platforms
 - 🌱 I’m currently learning ABC
 - 💞️ I’m looking to collaborate on GitHub
